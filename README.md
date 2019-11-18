@@ -33,10 +33,10 @@ Launches the test runner in the interactive watch mode.
 
 ### Additional installs
 
-Material-UI: ui library with some animations and styling
-axios: http request library
-redux: app-wide state management
-redux-thunk: middleware to allow async redux actions
-prop-types: prop types for components
-eslint: linter installed with Airbnb standard
-react-testing-library: replaces enzyme for things like shallow rendering
+Material-UI: ui library with some animations and styling  
+axios: http request library  
+redux: app-wide state management  
+redux-thunk: middleware to allow async redux actions  
+prop-types: prop types for components  
+eslint: linter installed with Airbnb standard  
+react-testing-library: replaces enzyme for things like shallow rendering  
